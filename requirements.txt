@@ -41,7 +41,7 @@ SQLAlchemy==1.4.23
 sqlalchemy-migrate==0.13.0
 sqlparse==0.4.2
 Tempita==0.5.2
-treq==21.5.0
+treq==22.1.0
 Twisted==21.7.0
 txaio==21.2.1
 typing-extensions==3.10.0.2
