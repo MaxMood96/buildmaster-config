@@ -16,7 +16,7 @@ charset-normalizer==3.4.1
 click==8.1.8
 constantly==23.10.4
 croniter==6.0.0
-cryptography==44.0.0
+cryptography==44.0.1
 Flask==3.1.0
 greenlet==3.1.1
 humanize==4.11.0
